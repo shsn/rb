@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: RecipeBox
+title: Recipe [Box]
 
 # Below the site title
 tagline: Tagline
@@ -16,7 +16,7 @@ logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
-  BlogBox is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net.
+  RecipeBox is a Recipe site for the Jekyll blogging platform. Available for purchase at ThemeForest.net.
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: shsn.github.io/
@@ -49,21 +49,21 @@ author_image: authorimage.jpg
 
 # Footer ad banner
 banner_image: banner.jpg
-banner_url: https://github.io/shsn
+banner_url: https://shsn.github.io/rb/
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "https://duckduckgo.com/"
 
 # Social links in the site footer
 twitter_username: "username"
-facebook_username: "username"
-github_username: "username"
-codepen_username: "username"
-dribbble_username: "username"
-medium_username: "@username"
-instagram_username: "username"
-pinterest_username: "username"
-linkedin_username: "username"
+facebook_username: 
+github_username: 
+codepen_username: 
+dribbble_username: 
+medium_username:
+instagram_username: 
+pinterest_username: 
+linkedin_username: 
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
