@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: Recipe [Box]
+title:
 
 # Below the site title
-tagline: Tagline
+tagline: 
 
 # Site logo
 logo:
@@ -66,7 +66,7 @@ pinterest_username:
 linkedin_username: 
 
 # http://jekyllrb.com/docs/pagination/
-paginate: 5
+paginate: 1
 paginate_path: '/blog/page:num/'
 plugins: [jekyll-paginate]
 
