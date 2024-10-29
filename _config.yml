@@ -15,13 +15,13 @@ tagline:
 logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: |
+description: description
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: shsn.github.io/
 
 # The subpath of your site, if you want to host your path on a subpath like on GitHub Pages. e.g. /blog
-baseurl: /
+baseurl: /rb
 
 sass:
   sass_dir: _sass
