@@ -51,7 +51,7 @@ banner_image: banner.jpg
 banner_url: https:/shsn.github.io/rb
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "https://duckduckgo.com"
+mailchimp_url: "https://duckduckgo.com/"
 
 # Social links in the site footer
 twitter_username: "username"
