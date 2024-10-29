@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: BlogBox
+title: RecipeBox
 
 # Below the site title
-tagline: Tales of a digital nomad.
+tagline: 
 
 # Site logo
 logo:
@@ -19,10 +19,10 @@ description: |
   BlogBox is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net.
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: https://blogbox.netlify.app
+url: shsn.github.io/
 
 # The subpath of your site, if you want to host your path on a subpath like on GitHub Pages. e.g. /blog
-baseurl:
+baseurl: /rb
 
 sass:
   sass_dir: _sass
@@ -31,23 +31,23 @@ sass:
 navigation:
 - text: Home
   url: /
-- text: About
-  url: /about/
-- text: Style Guide
-  url: /style-guide/
+- text: Popular
+  url: /popular/
+- text: International
+  url: /international/
 - text: Archives
   url: /tags/
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
-author_url: "https://justgoodthemes.com"
+author_name: "X B"
+author_bio: "My name is XB. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
+author_url: "github.io"
 author_location: "Vilnius, Lithuania"
 author_image: authorimage.jpg
 
 # Footer ad banner
 banner_image: banner.jpg
-banner_url: https://justgoodthemes.com/
+banner_url: https:/shsn.github.io/
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
